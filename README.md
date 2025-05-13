@@ -11,7 +11,7 @@ I take pride in my expertise, leveraging my extensive experience to deliver exce
 ###
 
 <div align="center">
-  <img src="/html.png" height="52" width="52" alt="html"  />
+  <img src="/html.png" height="48" width="48" alt="html"  />
   <img src="/css3.png" height="52" width="52" alt="css"  />
   <img src="/javascriptpng.png" height="52" width="52" alt="js"  />
   <img src="/React.png" height="52" width="52" alt="reacjs"  />
@@ -22,5 +22,5 @@ I take pride in my expertise, leveraging my extensive experience to deliver exce
 ###
 
 <div align="center">
-  <img src="/draclyr.png" height="379" width="280" alt="html"  />
+  <img src="/draclyr.png" height="280" width="379" alt="html"  />
 </div>
